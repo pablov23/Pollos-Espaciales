@@ -58,7 +58,7 @@ Muchos de nuestros pollos tienen además características especiales: son pollos
 
 1. **chickenNorris** Es un pollo mutante que pesa 100 kilos, tiene 9000000 días y sabe TODOS los niveles de karate. "karate1", "karate2", "karate3", etc. (Sabe infinitas artes marciales) Mostrar ejemplos de invocación para entrenar a chickenNorris con diferentes entrenadores. ¿Con cuáles se lo puede entrenar y con cuáles no? Justificar. Mostrar ejemplos de invocación y respuesta con diferentes entrenadores.
 2. **Graduar al mejor pollo de un planeta**, mutándolo a entrenador: hacer una función que dado un planeta, permita obtener un nuevo entrenador, en base al pollo que más artes marciales sabe de ese planeta, con un comportamiento que consista es enseñar todas sus artes marciales.
-3. Defiir a **Marceñano** como la mutación de dos entrenadores: marcelito y arguiñano en un nuevo entrenador que combina sucesivamente el entrenamiento de ambos. 
+3. Definir a **Marceñano** como la mutación de dos entrenadores: marcelito y arguiñano en un nuevo entrenador que combina sucesivamente el entrenamiento de ambos. 
 
 ![](pollos3.JPG)
 	
